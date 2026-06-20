@@ -35,7 +35,7 @@
 
 ### Електрична принципова схема 
 ---
-![Alt text](/Electronics/Circuit%20Diagram.png)
+![Alt text](/Electronics/Circuit%20diagram.png)
 
 ### Передавальна функція об'єкту 
 ---
