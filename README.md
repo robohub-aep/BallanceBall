@@ -1,16 +1,16 @@
----
+# Стенд-балансир
 
----
----
 **Над проєктом працювали:**
-@DimaOliinyk
-@DrWazelin
-@nastyaklymiuk
-@danil221888
+
+- [@DimaOliinyk](https://github.com/DimaOliinyk)
+- [@DrWazelin](https://github.com/DrWazelin)
+- [@nastyaklymiuk](https://github.com/nastyaklymiuk)
+- [@danil221888](https://github.com/danil221888)
+
 
 **Керівники проєкту:**
-@
-@
+- @
+- @
 
 ---
 ![[Pasted image 20260620001045.png]]
@@ -61,5 +61,5 @@ $W(s)={3.5 \cdot e^{-0.1s}\over{s^2}}$
 3. Максимальний $K_D$: $K_P=2.69, K_D=1.7525$
 
 ---
-## [Кафедра автоматизації енергетичних процесів (АЕП)**](https://aep.kpi.ua/)
+## [Кафедра автоматизації енергетичних процесів (АЕП)](https://aep.kpi.ua/)
 
