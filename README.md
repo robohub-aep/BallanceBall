@@ -9,7 +9,7 @@
 
 
 **Керівники проєкту:**
-- @eiaika
+- [@eiaika](https://github.com/eiaika)
 - @
 
 ---
