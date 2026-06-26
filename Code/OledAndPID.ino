@@ -182,7 +182,7 @@ long lastEncoderPos = 0;
 int menuNum = 0;
 
 #define MAX_ANGLE 5.0
-#define SERVO_PIN   4 //Chnaged from gpio 1
+#define SERVO_PIN   3
 
 ApBlock ApFilt;
 const static double setpoint = 24.0;
